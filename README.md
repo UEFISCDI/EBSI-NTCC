@@ -14,3 +14,7 @@ The EBSI-NE Consortium supports the development and adoption of the EBSI network
 
 These Technical Competences Centers were created with the primary goal of offering first-line support to ensure operational success in implementing blockchain-based services in their regions of operation and act as an offload point of contact of EBSI Support Desk services, the general maintainer of EBSI Network infrastructure.
 NTCCs are designed to fulfil several functions within the EBSI framework, including technical support, security services, training for technical operations, policy and standardization of technical support, interoperability enhancement, collaboration and networking.
+
+# Installation
+
+...
